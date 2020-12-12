@@ -8,4 +8,4 @@ namespace: argocd
 images:
 - name: hello-gitops
   newName: amarokete/gitops-test
-  newTag: 29a169fa243bd2b551878703ee88309fa379aa89
+  newTag: b93651878f963cb5e36f075cdbebf4643f626108
